@@ -1,4 +1,8 @@
 # Teste Script
 
-hist(rnorm(500))
-boxplot(rnorm(500))
+a <- rnorm(500)
+hist(a)
+boxplot(a)
+
+# Resumo
+summary(a)
