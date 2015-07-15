@@ -6,3 +6,5 @@ boxplot(a)
 
 # Resumo
 summary(a)
+
+da <- data.frame(a)
