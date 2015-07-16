@@ -8,3 +8,5 @@ boxplot(a)
 summary(a)
 
 da <- data.frame(a)
+
+da$rep <- 1
